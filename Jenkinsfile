@@ -1,8 +1,5 @@
-####
-####
-####       Iterates over a list of available packages, creates dynamically named stages. 
-####
-####
+/*      Iterates over a list of available packages, creates dynamically named stages.     */
+
 
 def list
 pipeline {
