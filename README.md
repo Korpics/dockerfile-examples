@@ -7,6 +7,7 @@ This GitHub project hosts a collection of Dockerfiles to show how you could use 
 dockerfile-examples is licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 # Jenkins
+http://9.42.135.177:8080/job/ClairScanner/job/Linux-on-Z%20Dockerfiles/
 
 Pipeline creates dynamically named stages for builds - scanning for vulnerabilities when successful. 
 
